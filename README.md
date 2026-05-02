@@ -20,6 +20,8 @@
 
 EmailForge is a **next-generation email composition assistant** that leverages advanced AI models to generate contextual, professional, and tonally-appropriate emails in seconds. Whether you're following up after an interview, negotiating with vendors, or announcing a product launch, EmailForge crafts perfect emails tailored to your specific needs.
 
+![Home Screen Screenshot](./SS/Home.png)
+
 Perfect for:
 - 📧 Professional business communications
 - 💼 Sales and partnership outreach  
